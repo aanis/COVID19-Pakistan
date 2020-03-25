@@ -16,6 +16,7 @@ Data downloaded from 2019 [Novel Coronavirus COVID-19 (2019-nCoV) Data Repositor
 
 Prophet is on PyPI, so you can use pip to install it:
 
-bash
+#bash
+
 $ pip install fbprophet
 
