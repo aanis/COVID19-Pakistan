@@ -1,4 +1,5 @@
 ### Introduction
+___
 
 COVID-19 Prediciton for Pakistan using the Facebook Prophet time series forecasting model.
 
@@ -6,13 +7,15 @@ Prophet is a procedure for forecasting time series data based on an additive mod
 
 Prophet is open source software released by Facebook's Core Data Science team. It is available for download on CRAN and PyPI.
 
-### Data 
+### Data Source
+___
 
 Data downloaded from 2019 [Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
 
 [Time Series Data](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series) data used for **confirmed** cases only.
 
 ### Installation in Python
+___
 
 Prophet is on PyPI, so you can use pip to install it:
 
@@ -21,6 +24,7 @@ Prophet is on PyPI, so you can use pip to install it:
 $ pip install fbprophet
 
 ### Compatibility
+___
 
 Google Colab
 
