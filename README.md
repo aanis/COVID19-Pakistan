@@ -1,13 +1,15 @@
+   ## COVID-19 Prediciton Pakistan with Facebook's Prophet
+   
    ![](https://miro.medium.com/max/482/0*tVCene42rgUTNv9Q.png)
 
 ### Introduction
 ___
 
+**Note: Model should perform better as more accurate data is recorded**
+
 COVID-19 Prediciton for Pakistan using the Facebook Prophet time series forecasting model.
 
 Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data. Prophet is robust to missing data and shifts in the trend, and typically handles outliers well.
-
-Prophet is open source software released by Facebook's Core Data Science team. It is available for download on CRAN and PyPI.
 
 ### Data Source
 ___
@@ -32,4 +34,4 @@ Google Colab
 
 Python 3.0
 
-Version 0.6 (2020.03.03)
+Prophet Version 0.6 (2020.03.03)
